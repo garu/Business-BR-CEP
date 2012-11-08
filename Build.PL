@@ -8,6 +8,7 @@ my $builder = Module::Build->new(
     dist_author         => 'Breno G. de Oliveira <garu@cpan.org>',
     dist_version_from   => 'lib/Business/BR/CEP.pm',
     requires => {
+        'parent'     => 0,
         'Test::More' => '0.88',
     },
     add_to_cleanup      => [ 'Business-BR-CEP-*' ],
