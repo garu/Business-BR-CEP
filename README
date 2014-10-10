@@ -45,7 +45,7 @@ Alternatively, to install with Module::Build, you can use the following commands
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2012, Estante Virtual
+Copyright (C) 2012-2014, Breno G. de Oliveira
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as the Perl 5 programming language itself.

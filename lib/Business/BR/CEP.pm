@@ -174,7 +174,7 @@ Breno G. de Oliveira  C<< <garu@cpan.org> >>
 
 =head1 LICENCE AND COPYRIGHT
 
-Copyright (c) 2012, Estante Virtual. All rights reserved.
+Copyright (c) 2012-2014, Breno G. de Oliveira. All rights reserved.
 
 This module is free software; you can redistribute it and/or
 modify it under the same terms as the Perl 5 programming language itself.
